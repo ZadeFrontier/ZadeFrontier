@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zade
+- 👋 Hi, I’m @Kris
 - 👀 I’m interested in AI & Data Sciences
 - 🌱 I’m currently learning everything related to Data Sciences
 - 💞️ I’m looking to collaborate on any Data Science related projects
