@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kris
 - 👀 I’m interested in AI & Data Sciences
-- 🌱 I’m currently learning everything related to Data Sciences
-- 💞️ I’m looking to collaborate on any Data Science related projects
+- 🌱 I’m currently working as a Senior Data Scientist at an MNC
+- 💞️ I’m looking to collaborate on any Data Science & AI related projects
 - 📫 You can reach me at Zade.Frontier@gmail.com
 
 <!---
